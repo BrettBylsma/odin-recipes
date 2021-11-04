@@ -1,0 +1,28 @@
+.headers {
+    text-align: center; 
+}
+body {
+    background-color: #A9A9A9;
+    text-align: center;
+}
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+}
+.page2 {
+    text-align: left;
+}
+.unordered {
+    background-color: #F0FFFF;
+}
+.ordered {
+    background-color: #F0FFFF;
+}
+img {
+    height: auto;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
