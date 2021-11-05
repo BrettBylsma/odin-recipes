@@ -2,8 +2,11 @@
     text-align: center; 
 }
 body {
-    background-color: #A9A9A9;
+    background-color: #d3d3d3;
     text-align: center;
+}
+.hyper {
+    font-size: 22px;
 }
 h1 {
     font-size: 70px;
@@ -24,5 +27,31 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-
+}
+.headers.links {
+    font-size: 32px
+}
+.headers.ingredients {
+    font-size: 32px;
+    background-color: #6495ed;
+    font-weight: 1000;
+    font-family: Helvetica, sans-sarif
+}
+.headers.steps {
+    font-size: 32px;
+    background-color: #6495ed;
+    font-weight: 1000;
+    font-family: Helvetica, sans-sarif
+}
+.button {
+    background-color: #F0FFFF;
+    font-size: 20px;
+    font-family: Helvetica;
+    
+}
+.page3 {
+    text-align: left;
+}
+.page4 {
+    text-align: left;
 }
