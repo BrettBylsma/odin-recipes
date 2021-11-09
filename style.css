@@ -1,5 +1,5 @@
 .headers {
-    text-align: center; 
+    text-align: center;
 }
 body {
     background-color: #d3d3d3;
@@ -11,6 +11,7 @@ body {
 h1 {
     font-size: 70px;
     font-weight: bold;
+    text-align: center;
 }
 .page2 {
     text-align: left;
