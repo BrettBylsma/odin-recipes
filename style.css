@@ -4,6 +4,7 @@
 body {
     background-color: #d3d3d3;
     text-align: center;
+
 }
 .hyper {
     font-size: 22px;
@@ -18,9 +19,21 @@ h1 {
 }
 .unordered {
     background-color: #F0FFFF;
+    margin-left: 300px;
+    margin-right: 300px; 
+    font-size: 24px;
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    
+
 }
 .ordered {
     background-color: #F0FFFF;
+    padding: 40px;
+    font-size: 24px;
+    
 }
 img {
     height: auto;
@@ -36,18 +49,23 @@ img {
     font-size: 32px;
     background-color: #6495ed;
     font-weight: 1000;
-    font-family: Helvetica, sans-sarif
+    font-family: Helvetica, sans-sarif;
+    margin-left: 300px;
+    margin-right: 300px; 
+   
 }
 .headers.steps {
     font-size: 32px;
     background-color: #6495ed;
     font-weight: 1000;
-    font-family: Helvetica, sans-sarif
+    font-family: Helvetica, sans-sarif;
 }
 .button {
     background-color: #F0FFFF;
     font-size: 20px;
     font-family: Helvetica;
+    padding: 8px;
+    text-align: center;
     
 }
 .page3 {
